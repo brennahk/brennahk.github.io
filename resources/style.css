@@ -1,0 +1,95 @@
+a:hover {
+	color: #44E3C1;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size:48px;
+	font-family:  "Patrick Hand", cursive;
+}
+
+body{
+	width: 900px;
+	background-color: #4a453b;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: "Roboto Slab", serif;
+}
+
+#copyright{
+	color: grey;
+}
+
+.like{
+	color: teal;
+}
+
+#homepage{
+	column-count: 2;
+	column-gap: 24px;
+}
+
+a{
+color: #fffacd;
+text-decoration: none
+}
+
+.profile{
+	width: 150px;
+	border-radius: 100%;
+	margin-right: 18px;
+	border: 4px solid #F7F7F7;
+	float: left; /* the float pulls things off the page */
+}
+
+img{
+	width: 100%;
+}
+
+nav{
+	text-align: center;
+	margin-top: 16px;
+	margin-bottom: 64px;
+	font-size: 32px;
+}
+
+nav a{
+	text-align: center;
+	margin-left: 8px;
+	margin-right: 8px;
+	font-size: 32px;
+}
+
+header {
+	margin-top: 24px;
+}
+
+footer {
+	margin-top:64px;
+	margin-bottom: 32px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 40px;
+	text-align: center;
+	color: #fffacd;
+	font-family:  "Patrick Hand", cursive;
+}
+
+ul, ol {
+	font-size: 16px;
+	color: #f7f7f7;
+	margin-left: 32px;
+}
+
+p {
+line-height: 160%;
+color: #f7f7f7;
+margin-top:16px;
+margin-bottom:16px;
+}
